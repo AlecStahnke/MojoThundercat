@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MojoThundercat
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Scratch, Python, and JavaScript.
-- 💞️ I’m looking to collaborate on my small projects im doing for classes.
-- 📫 How to reach me: message me.
+- 👀 I’m interested in learning how to become a full stack developer.
+- 🌱 I’m currently learning C, Python, and JavaScript.
+- 💞️ I’m looking to succesfully complete Harvard's CS50x and The Odin Project.
 
 <!---
 MojoThundercat/MojoThundercat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
